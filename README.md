@@ -1,6 +1,6 @@
 # The Ghost Map Project
 
-<img src="images/Ghost_map.jpeg" alt="John Snow's Ghost Map" width="300" height="300"/>
+<img src="images/Ghost_map.jpeg" alt="John Snow's Ghost Map" width="420" height="400" />
 
 ## Overview
 Welcome to the Ghost Map Project, inspired by the pioneering work of Dr. John Snow in epidemiology. This project aims to showcase Snow's revolutionary investigation into the 1854 cholera outbreak in London and his creation of the famous "Ghost Map."
